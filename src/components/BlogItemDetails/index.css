@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.size {
+  height: 30px;
+  width: 30px;
+  border-radius: 40px;
+}
+
+.img5 {
+  height: 400px;
+  width: 700px;
+}
+
+.con7 {
+  display: flex;
+  flex-direction: row;
+}
+
+.con8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.con10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  width: 700px;
+}

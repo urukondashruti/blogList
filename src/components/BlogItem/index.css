@@ -1,0 +1,53 @@
+/* Write your CSS code here */
+.size {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+}
+
+.img1 {
+  height: 200px;
+  width: 200px;
+}
+
+.con {
+  display: flex;
+  flex-direction: row;
+}
+
+.con1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.list2 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  width: 75%;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+}
+
+.para {
+  margin-top: 0px;
+  margin-left: 20px;
+  color: grey;
+}
+
+.con3 {
+  margin-left: 20px;
+}
+
+.route {
+  text-decoration: none;
+}
+
+.para1 {
+  color: grey;
+}
+.head1 {
+  color: black;
+}
